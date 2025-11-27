@@ -1,81 +1,69 @@
-<!-- Profile Header Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/1100x270.png?text=Kshitij+Jain+|+Developer+%7C+AI+Enthusiast" alt="Banner" />
-</p>
+### Hi there 👋
 
-<h1 align="center">👋 Hey, I'm <strong>Kshitij Jain</strong></h1>
-<p align="center">Building real-world solutions through Web Dev, AI, and Creativity 🚀</p>
+<!--
+**Kshitij Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
----
+Here are some ideas to get you started:
 
-## 🧑‍💻 About Me
-- 🔥 Developer | Student | Future Entrepreneur  
-- 🧠 Currently deep-diving into **AI, Web Development & Data Science**  
-- 💡 I love solving problems and building products that people actually use  
-- 🎯 Exploring ML, Computer Vision, and Scalable Web Apps  
-- 🚀 Always leveling up my skills & pushing new boundaries  
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
----
-
-## 🛠️ Tech Stack
-### 💻 **Core Skills**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python" />
-
-### 🤖 **AI + Data Science**
-<img src="https://skillicons.dev/icons?i=python" />
-<br>
-<p>
-  • OpenCV  
-  • NumPy  
-  • Pandas  
-  • Matplotlib  
-  • Seaborn  
-</p>
-
-### 🗄️ **Databases**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### ⚙️ **Other Skills**
-- Operating Systems  
-- DSA (Data Structures & Algorithms)  
-
----
-
-## 🚀 Featured Project
-
-### ⭐ **College Mess App**  
-A smart solution for college students to view daily mess menus, track meals, and get real-time updates.  
-🛠 Built With: React, MongoDB, Node.js, Python  
-
-🔗 **Repo:** *(Add your repo link here)*  
-📌 More projects coming soon…
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/kshitij-jain-422025342/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <!-- Add kaggle, facebook, instgram as well -->
+    <!-- <a href="https://www.instagram.com/aammartufail/">
+      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a> -->
+    <a href="https://www.kaggle.com/kshitij2522">
+      <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+    </a>
+    <a href="https://www.youtube.com/@BrainForge-28">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://x.com/Kshitij197372">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
-## 📊 GitHub Insights (Auto-updating)
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NEGO2522&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NEGO2522&theme=tokyonight" />
-</p>
+### About Me :
+I am a `Data Scientist` / `WebDeveloper` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as a student.
+- :telescope: I’m Student as a Data Scientist (AI & ML at Poornima University , Jaipur).
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEGO2522&layout=compact&theme=tokyonight" />
-</p>
+- :seedling: Exploring Technical Web Development, Learning Data Science, Machine Learning, Deep Learning, AI and much more on youtube channel.
 
----
+- :zap: In my free time, I solve problems on [www.leetcode.com](www.leetcode.com) and watch tech videos.
 
-## 🔗 Connect With Me
-<p align="left">
-  <a href="https://github.com/NEGO2522"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-</p>
+- :mailbox: How to reach me: 
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/NEGO2522) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/kshitij2522) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kshitij-jain-422025342/)  
 
-## ✨ Quote I Follow
-> *“Skills build your future. Consistency multiplies it.”*
+[![YouTube](https://img.shields.io/badge/YouTube-Profile-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@BrainForge-28)  
+
+[![Twitter/X](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://x.com/Kshitij197372) 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=email)](mailto:nextgenova28@gmail.com)
 
 ---
-
-<p align="center">⭐ If you like my work, feel free to star my repositories!</p>
