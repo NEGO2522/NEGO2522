@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 ---
 
 ### About Me :
-I am a `Data Scientist` / `WebDeveloper` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as a student.
-- :telescope: I’m Student as a Data Scientist (AI & ML at Poornima University , Jaipur).
+I am a `Data Science` / `WebDeveloper` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as a student.
+- :telescope: I’m Student as a Data Science (AI & ML at Poornima University , Jaipur).
 
 - :seedling: Exploring Technical Web Development, Learning Data Science, Machine Learning, Deep Learning, AI and much more on youtube channel.
 
