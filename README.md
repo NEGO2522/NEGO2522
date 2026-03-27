@@ -1,27 +1,41 @@
-# Profile
+# NEGO2522
 
-## Skills
-- Skill 1
-- Skill 2
-- Skill 3
+## Welcome to my GitHub Profile!
 
-## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=NEGO2522&show_icons=true)
+![Profile Banner](https://example.com/profile-banner.jpg)
 
-## Tech Stack
-- JavaScript
-- Python
-- HTML
-- CSS
-
-## Visual Styling
-Here are some badges representing my skills:
-
-![Skill Badge 1](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Skill Badge 2](https://img.shields.io/badge/Python-3.8-blue)
-![Skill Badge 3](https://img.shields.io/badge/HTML5-orange)
-![Skill Badge 4](https://img.shields.io/badge/CSS3-blueviolet)
+### About Me
+I am a passionate developer with expertise in multiple programming languages and technologies. I enjoy creating innovative solutions and continually enhancing my skills.
 
 ---
 
-*Updated on 2026-03-27 18:34:16 UTC*
+### Animated Stats
+
+![Stats Animation](https://example.com/stats-animation.gif)
+
+- **Languages:**  Python, JavaScript, Java
+- **Frameworks:** React, Node.js, Flask
+- **Tools:** Git, Docker, AWS
+
+---
+
+### Skills
+- **Web Development:** HTML, CSS, JavaScript, React
+- **Backend Development:** Node.js, Express, Flask
+- **Database Management:** SQL, MongoDB
+
+![Skill Section](https://example.com/skill-section.jpg)
+
+---
+
+### Projects Showcase
+#### [Awesome Project 1](https://github.com/NEGO2522/awesome-project-1)
+A brief description of this amazing project.
+
+#### [Awesome Project 2](https://github.com/NEGO2522/awesome-project-2)
+Another great project that showcases my skills.
+
+---
+
+### Contact Me
+If you'd like to reach out, feel free to connect with me on [LinkedIn](https://linkedin.com/in/neg02522) or follow me on [Twitter](https://twitter.com/neg02522).
