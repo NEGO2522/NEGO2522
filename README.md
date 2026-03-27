@@ -1,41 +1,29 @@
-# NEGO2522
+# Professional Profile
 
-## Welcome to my GitHub Profile!
+## About Me
 
-![Profile Banner](https://example.com/profile-banner.jpg)
+I am a passionate developer with a keen interest in building innovative solutions and constantly improving my skill set. I enjoy working on various projects that challenge my programming abilities and broaden my horizons.
 
-### About Me
-I am a passionate developer with expertise in multiple programming languages and technologies. I enjoy creating innovative solutions and continually enhancing my skills.
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NEGO2522&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
----
+## Skills
+- **Languages:** Python, JavaScript, Java
+- **Frameworks:** React, Django, Flask
+- **Tools:** Git, Docker, Jenkins
 
-### Animated Stats
+## Interactive Badges
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,react,django,flask)](https://skillicons.dev)
 
-![Stats Animation](https://example.com/stats-animation.gif)
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Personal Website](https://yourwebsite.com)
 
-- **Languages:**  Python, JavaScript, Java
-- **Frameworks:** React, Node.js, Flask
-- **Tools:** Git, Docker, AWS
+## Projects
+- [Project1](https://github.com/NEGO2522/project1)
+- [Project2](https://github.com/NEGO2522/project2)
 
----
-
-### Skills
-- **Web Development:** HTML, CSS, JavaScript, React
-- **Backend Development:** Node.js, Express, Flask
-- **Database Management:** SQL, MongoDB
-
-![Skill Section](https://example.com/skill-section.jpg)
-
----
-
-### Projects Showcase
-#### [Awesome Project 1](https://github.com/NEGO2522/awesome-project-1)
-A brief description of this amazing project.
-
-#### [Awesome Project 2](https://github.com/NEGO2522/awesome-project-2)
-Another great project that showcases my skills.
+## Blog
+Check out my blog for tutorials and insights [here](https://yourblog.com).
 
 ---
-
-### Contact Me
-If you'd like to reach out, feel free to connect with me on [LinkedIn](https://linkedin.com/in/neg02522) or follow me on [Twitter](https://twitter.com/neg02522).
